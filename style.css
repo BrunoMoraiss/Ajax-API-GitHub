@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(234, 236, 236);
+}
+
+.main-content {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-content{
+    padding: 15px;
+    color: rgb(49, 49, 49);
+    padding-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 244, 247);
+    width: auto;
+    margin-bottom: 1rem;
+    box-shadow: 3px 3px rgb(163, 163, 163);
+}
+
+.info-content li{
+    font-size: 18px;
+}
